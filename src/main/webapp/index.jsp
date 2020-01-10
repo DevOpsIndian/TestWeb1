@@ -8,7 +8,7 @@
 <title>TLS  Registration Form</title>
 </head>
 <body>
-<h1>TLS  Register Form Made by Sumeet Garg </h1>
+<h1>TLS  Register Form Made by Sumeet Garg & Chiranjeev </h1>
 <form action="TLS_register" method="post" >
 			<table style="with: 50%" border=1>
 				<tr>
