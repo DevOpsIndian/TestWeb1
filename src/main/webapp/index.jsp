@@ -10,7 +10,7 @@
 <body>
 <h1>TLS  Register Form Made by Sumeet Garg  </h1>
 <form action="TLS_register" method="post" >
-			<table style="with: 50%" border=1 bgcolor=Red>
+			<table style="with: 50%" border=1 bgcolor=blue>
 				<tr>
 					<td>First Name</td>
 					<td><input type="text" name="first_name" /></td>
